@@ -1,5 +1,4 @@
-## 学习资源
-##转自 https://github.com/ar414-com/php-source-lib
+## 学习资源  转自 https://github.com/ar414-com/php-source-lib
 
 >PHP相关的有参考价值的社区,博客,网站,文章,书籍,视频等资源
 
